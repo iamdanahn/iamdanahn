@@ -12,8 +12,7 @@ When I'm not coding, I'm either: working on my car, looking for something new to
 
 📫 Check me out on my:
   * <a href="https://www.linkedin.com/in/iamdanahn/" target="_blank">LinkedIn</a>
-  * [LinkedIn](https://www.linkedin.com/in/iamdanahn/)
-  * [Personal Site](https://iamdanahn.github.io/)
+  * [Personal Site](https://iamdanahn.github.io/){:target="_blank}
 
 
 <!--
