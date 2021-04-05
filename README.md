@@ -7,7 +7,9 @@ To pursue my passion of problem solving, I attended App Academy where we spent 9
 When I'm not coding, I'm either: working on my car, looking for something new to eat, or kicking it back with the wife and 2 awesome dogs. I'm excited to join a team of software engineers where I can utilize my skills while expanding my knowledge of web development.
 
 🌱 I’m currently learning React Hooks and Python
+
 🔭 I’m currently working on [Protect our Elders](https://protect-our-elders.herokuapp.com/)
+
 📫 Check me out on my:
   * [LinkedIn](https://www.linkedin.com/in/iamdanahn/)
   * [Personal Site](https://iamdanahn.github.io/)
