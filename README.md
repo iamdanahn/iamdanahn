@@ -2,7 +2,7 @@
 
 I'm Daniel, a Full Stack Software Engineer with a background in U.S. Customs Regulations and Mechanics.  
 
-To pursue my passion of problem solving, I attended App Academy where we spent 90-100+ hours a week learning a variety of languages from JavaScript, React, Redux, Node.js, PostgreSQL, Ruby on Rails and more. I was able to develop several projects with different stacks reinforcing my knowledge in each language.
+To pursue my passion of problem solving, I attended App Academy where I spent 90-100+ hours a week learning a variety of languages from JavaScript, React, Redux, Node.js, PostgreSQL, Ruby on Rails and more. I was able to develop several projects with different stacks reinforcing my knowledge in each language.
 
 When I'm not coding, I'm either: working on my car, looking for something new to eat, or kicking it back with the wife and 2 awesome dogs. I'm excited to join a team of software engineers where I can utilize my skills while expanding my knowledge of web development.
 
