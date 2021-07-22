@@ -13,7 +13,6 @@ When I'm not coding, I'm either: working on my car, looking for something new to
 📫 Check me out on my:
   * <a href="https://www.linkedin.com/in/iamdanahn/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
   * <a href="https://danielahn.tech/" onclick="return ! window.open(this.href)">Portfolio</a>
-onclick="return ! window.open(this.href);"
 
 <!--
 **iamdanahn/iamdanahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
