@@ -11,7 +11,7 @@ When I'm not coding, I'm either: working on my car, looking for something new to
 🔭 I’m currently working on [Protect our Elders](http://protectourelders.herokuapp.com/#/)
 
 📫 Check me out on my:
-  * <a href="https://www.linkedin.com/in/iamdanahn/" target="_blank" rel="noreferrer noopener">LinkedIn</a>
+  * <a href="https://www.linkedin.com/in/iamdanahn/" target="_blank" rel="noopener noreferrer>LinkedIn</a>
   * [Personal Site](https://danielahn.tech/)
 
 
