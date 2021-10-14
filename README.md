@@ -5,6 +5,7 @@ I'm Daniel, a Full Stack Software Engineer with a background in U.S. Customs Reg
 To break into the tech sector, I attended App Academy where I spent 90-100+ hours a week learning a variety of languages from JavaScript, React, Redux, Node.js, PostgreSQL, Ruby on Rails and more. I was able to develop several projects with different stacks reinforcing my knowledge in each language.
 
 🔭 I’m currently working at Salesforce and learning their robust ecosystem!
+
 ⚡ When I'm not coding, I'm either: working on my car, looking for something new to eat, or kicking it back with the wife and 2 awesome dogs.
 
 📫 Check me out on my:
