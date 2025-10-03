@@ -10,7 +10,7 @@ To break into the tech sector, I attended App Academy, where I spent 90-100+ hou
 
 📫 Check me out on my:
   * <a href="https://www.linkedin.com/in/iamdanahn/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-  * <a href="https://danielahn.dev/" onclick="return ! window.open(this.href)">Portfolio</a>
+  * <a href="https://danielahn.dev/" onclick="return ! window.open(this.href)" target="_blank">Portfolio</a>
 
 
 <!--
